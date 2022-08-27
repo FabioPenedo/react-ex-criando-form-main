@@ -10,7 +10,7 @@ Após instaladas as dependências, o comando para rodar o projeto é:
 
 `npm run dev`
 
-Ótimo. Boa sorte!
+Caso queira fazer esse exercicio, apague o código dentro de App.tsx e refaça do zero
 
 ---
 
@@ -21,6 +21,3 @@ O exercício resolvido está no arquivo `src/App_RESOLVIDO.tsx`.
 OBS: Não olhe o arquivo antes de tentar fazer sozinho, por favor.
 
 ---
-
-## Dúvidas?
-Nos envie um e-mail para suporte@b7web.com.br que te ajudamos com prazer.
